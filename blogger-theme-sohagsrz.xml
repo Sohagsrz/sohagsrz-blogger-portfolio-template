@@ -39,7 +39,7 @@
   <Variable name="body.background" description="Background"
       color="$(body.background.color)"
       type="background"
-      default="$(color) none repeat scroll top left" value="$(color) none repeat scroll top left;"/>
+      default="$(color) none repeat scroll top left" value="$(color) none repeat scroll top left"/>
 </Group>
 */
 
